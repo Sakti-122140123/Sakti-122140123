@@ -1,6 +1,6 @@
 # Sakti Mujahid Imani
 
-**Informatics Engineering Graduate** &bull; **Software Engineer &bull; QA Specialist &bull; Machine Learning Practitioner**  
+**Computer Science Graduate** &bull; **Software Engineer &bull; QA Specialist &bull; Machine Learning Practitioner**  
 Institut Teknologi Sumatera (ITERA) &bull; South Lampung, Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saktimujahid/)
@@ -11,20 +11,33 @@ Institut Teknologi Sumatera (ITERA) &bull; South Lampung, Indonesia
 
 ### 👨‍💻 Professional Summary
 
-Fresh graduate in **Informatics Engineering** from **Institut Teknologi Sumatera (ITERA)** with a solid foundation in software development, quality assurance methodologies, and applied machine learning. 
+Computer Science graduate from **Institut Teknologi Sumatera (ITERA)** with hands-on experience in full-lifecycle software development, quality assurance methodologies, and applied machine learning. 
 
-Dedicated to writing reliable, maintainable code and delivering software backed by rigorous quality standards. Experienced in end-to-end technical workflows—from requirement analysis and API implementation to comprehensive test validation using Postman and data modeling with Python.
+Proven track record of engineering and testing production-grade institutional platforms—bridging technical requirements, robust API validation using Postman, and user-focused delivery. Passionate about software reliability, clean code principles, and data-driven problem solving.
 
-Actively seeking opportunities in **Software Engineering**, **Quality Assurance (QA)**, and **Machine Learning / Data Roles**.
+Open to professional opportunities in **Software Engineering**, **Quality Assurance (QA)**, and **Machine Learning / Data Roles**.
+
+---
+
+### 🌟 Featured Production Project
+
+#### [Harmony FTI ITERA](https://harmony.fti.itera.ac.id) — Holistic Administration and Resource Management System
+*Integrated Web Enterprise Platform for the Faculty of Industrial Technology, ITERA*
+
+- **Role:** Software Developer & Quality Assurance (Research & Core Contributor)
+- **Scope & Solution:** Developed the **Student Affairs Subsystem** (*Subsistem Kemahasiswaan*) to digitize academic and administrative letter processing—including MBKM internship recommendations, academic permits, research authorizations, and official assignment decrees.
+- **Engineering & Process:** Applied the **Rational Unified Process (RUP)** methodology managed with **Kanban**, transitioning traditional manual paper-based processes into a transparent, secure, 24/7 web-based portal.
+- **QA & Testing Rigor:** Formulated comprehensive test scenarios, executed **API validation via Postman**, performed structured **Black Box Testing**, and coordinated **User Acceptance Testing (UAT)** with faculty administrators and student representatives to ensure defect-free deployment.
+- **Status:** **Live in Production** &bull; [harmony.fti.itera.ac.id](https://harmony.fti.itera.ac.id)
 
 ---
 
 ### 🚀 Core Competencies
 
-| Domain | Key Capabilities & Experience |
+| Domain | Key Capabilities & Practical Experience |
 | :--- | :--- |
-| **Software Engineering** | Full-cycle software development, modular application design, RESTful API development, clean architecture, and relational database management. |
-| **Quality Assurance (QA)** | API testing and collection automation via **Postman**, functional & regression manual testing, test scenario & test case design, edge-case validation, and defect reporting. |
+| **Software Engineering** | Full-cycle web and system development, RESTful API integration, modular architecture, relational database management, and clean code practices. |
+| **Quality Assurance (QA)** | API testing and collection management with **Postman**, Black Box Testing, User Acceptance Testing (UAT), test scenario and test case design, regression testing, and bug tracking. |
 | **Machine Learning & Data** | Exploratory Data Analysis (EDA), data cleaning & feature engineering, supervised/unsupervised model training, and performance evaluation using Scikit-learn and TensorFlow. |
 
 ---
@@ -32,8 +45,8 @@ Actively seeking opportunities in **Software Engineering**, **Quality Assurance 
 ### 🛠️ Technical Skills
 
 - **Languages:** `Python` &nbsp; `C++` &nbsp; `JavaScript` &nbsp; `SQL` &nbsp; `HTML5` &nbsp; `CSS3`
+- **Quality Assurance & Testing:** `Postman` &nbsp; `API Testing` &nbsp; `Black Box Testing` &nbsp; `UAT` &nbsp; `Test Case Design` &nbsp; `Bug Tracking`
 - **Machine Learning & Data:** `TensorFlow` &nbsp; `Scikit-learn` &nbsp; `Pandas` &nbsp; `NumPy`
-- **Quality Assurance & Testing:** `Postman` &nbsp; `API Testing` &nbsp; `Test Case Design` &nbsp; `Manual Testing` &nbsp; `Bug Tracking`
 - **Databases & Storage:** `PostgreSQL` &nbsp; `MySQL`
 - **Developer Tools & Environments:** `Git` &nbsp; `GitHub` &nbsp; `Linux / Bash` &nbsp; `VS Code` &nbsp; `REST APIs`
 
