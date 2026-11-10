@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sakti-122140123/Sakti-122140123/main/banner.svg" alt="Sakti Mujahid Imani Banner" width="100%" />
-
-  <br />
+  <h1>Sakti Mujahid Imani</h1>
+  <p>
+    <b>Computer Science Graduate</b> &bull; <b>Institut Teknologi Sumatera (ITERA)</b><br />
+    Software Engineering &bull; Quality Assurance (QA) &bull; Applied Machine Learning
+  </p>
+  <p>South Lampung, Indonesia</p>
 
   <a href="https://www.linkedin.com/in/saktimujahid/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
