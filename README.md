@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Sakti%20Mujahid%20Imani&fontSize=38&fontColor=F0F6FC&desc=Computer%20Science%20Graduate%20%7C%20Software%20Engineer%20%26%20QA&descSize=16&descAlignY=70&descAlign=50" width="100%" />
+  <img src="./banner.svg" alt="Sakti Mujahid Imani Banner" width="100%" />
 
   <br />
 
@@ -18,27 +18,54 @@
 
 <br />
 
+## Professional Background
+
+Computer Science graduate from **Institut Teknologi Sumatera (ITERA)** with a focus across software engineering, quality assurance, and applied machine learning.
+
+My engineering approach centers around software dependability: writing clean, maintainable code, validating system behavior through structured testing methodologies, and leveraging data to solve practical computational problems.
+
+<br />
+
+## Technical Specializations
+
+### Software Engineering
+- Developing structured, full-lifecycle web applications and backend services with modular architecture.
+- Designing and integrating RESTful APIs with clean request/response lifecycles and secure data handling.
+- Relational database schema design, query optimization, and data persistence using PostgreSQL and MySQL.
+- Applying clean code practices, Git version control branching workflows, and collaborative codebase management.
+
+### Quality Assurance & Testing
+- **API Testing via Postman:** Designing comprehensive test collections, automating test runners, configuring environment and global variables, and writing pre-request and test assertion scripts (HTTP status validation, response time benchmarks, and JSON payload schema verification).
+- **Test Planning & Documentation:** Formulating structured test scenarios, test cases, and edge-case test matrices.
+- **Functional Testing:** Executing manual Black Box testing, regression verification on feature releases, and coordinating User Acceptance Testing (UAT).
+- **Defect Lifecycle Management:** Writing clear defect reports with detailed reproduction steps, logs, expected versus actual outcomes, and verifying resolved issues.
+
+### Applied Machine Learning & Data Science
+- **Exploratory Data Analysis (EDA):** Data wrangling, distribution inspection, and statistical validation using Pandas and NumPy.
+- **Feature Engineering:** Preprocessing pipelines, data normalization, categorical encoding, and handling imbalanced datasets.
+- **Model Training & Evaluation:** Implementing supervised and unsupervised learning algorithms with Scikit-learn and TensorFlow, measuring performance with precision, recall, F1-score, and confusion matrices.
+
+<br />
+
+## Technical Toolbelt
+
 <div align="center">
-  <h2>Engineering & Quality Assurance</h2>
-  <p>
-    Computer Science graduate from <b>Institut Teknologi Sumatera (ITERA)</b>.<br />
-    Focused on software development, API validation with Postman, and applied machine learning.
-  </p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,postgres,mysql,postman,tensorflow,git,linux,vscode&theme=dark" alt="Technical Skills" />
 </div>
 
 <br />
 
-<div align="center">
-  <h3>Technologies & Tools</h3>
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,postgres,mysql,postman,tensorflow,git,linux,vscode&theme=dark" alt="Skill Icons" />
-</div>
+- **Programming Languages:** Python, JavaScript, SQL, C++, HTML5, CSS3
+- **Quality Assurance & Testing:** Postman (API Testing & Collection Automation), Black Box Testing, User Acceptance Testing (UAT), Test Case Design, Bug Tracking
+- **Machine Learning & Data:** TensorFlow, Scikit-learn, Pandas, NumPy
+- **Databases & Storage:** PostgreSQL, MySQL
+- **Developer Tools & Environments:** Git, GitHub, Linux / Bash, VS Code, REST APIs
 
 <br />
 
+## GitHub Activity
+
 <div align="center">
-  <h3>GitHub Analytics</h3>
-  <br />
   <img src="https://github-stats-extended.vercel.app/api?username=Sakti-122140123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sakti's GitHub Stats" height="165" />
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sakti-122140123&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
