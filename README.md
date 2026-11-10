@@ -1,25 +1,77 @@
-# 💫 About Me:
-Hi! I'm a student at Institut Teknologi Sumatera majoring in Informatics Engineering. I'm passionate about Machine Learning, and currently diving deep into its concepts, tools, and real-world applications. I enjoy experimenting with data, building models, and continuously learning to grow my skills in the field.<br><br>🚀 I'm especially interested in:<br>- Supervised & unsupervised learning<br>- Data preprocessing and visualization<br>- Model evaluation and deployment<br><br>I'm always excited to collaborate on meaningful projects, learn from others, and contribute to the open-source community!
+<div align="center">
 
+# 👋 Hi there, I'm Sakti Mujahid!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saktimujahid/) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=550&lines=Informatics+Engineering+Student+%40+ITERA;Machine+Learning+Enthusiast;Software+Developer+%26+QA+Enthusiast;Passionate+about+Quality+%26+Intelligent+Code)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  🎓 Informatics Engineering Student at <b>Institut Teknologi Sumatera (ITERA)</b><br/>
+  💡 Driven by building reliable software, exploring intelligent algorithms, and ensuring code quality.
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sakti-122140123&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sakti-122140123&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakti-122140123&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saktimujahid/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakti.122140123@student.itera.ac.id)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakti-122140123)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sakti-122140123&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakti-122140123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sakti-122140123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am an Informatics Engineering student at **Institut Teknologi Sumatera** with strong interests in **Machine Learning**, **Software Development**, and **Quality Assurance (QA)**. I enjoy taking ideas from concept to production—whether that involves training and evaluating ML models, engineering clean and scalable software solutions, or designing robust testing workflows to guarantee reliability and performance.
+
+- 🤖 **Machine Learning:** Diving deep into supervised/unsupervised learning, data preprocessing, feature engineering, and model deployment.
+- 💻 **Software Development:** Building functional, well-structured applications, working with RESTful APIs, and implementing clean code principles.
+- 🧪 **Quality Assurance (QA):** Enthusiastic about software testing methodologies, manual & automated testing, test case design, and API validation.
+- 🤝 **Collaboration:** Always excited to collaborate on meaningful projects, learn new technologies, and contribute to open source!
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 🌐 Languages & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css" alt="Languages" />
+</a>
+
+#### 🤖 Machine Learning & Data Science
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy" alt="Machine Learning & Data" />
+</a>
+
+#### 🧪 Quality Assurance & Testing
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,selenium" alt="QA & Testing" />
+</a>
+
+#### 🛠️ Database, Tools & Environment
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,linux,bash" alt="Tools & DB" />
+</a>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakti-122140123&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sakti-122140123&theme=gruvbox&hide_border=true" alt="Streak Stats" height="165" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakti-122140123&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>🏆 GitHub Trophies</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakti-122140123&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Sakti-122140123&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</div>
