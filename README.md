@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Sakti Mujahid Imani Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sakti-122140123/Sakti-122140123/main/banner.svg" alt="Sakti Mujahid Imani Banner" width="100%" />
 
   <br />
 
