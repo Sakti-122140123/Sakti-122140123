@@ -4,7 +4,7 @@
     <b>Computer Science Graduate</b> &bull; <b>Institut Teknologi Sumatera (ITERA)</b><br />
     Software Engineering &bull; Quality Assurance (QA) &bull; Applied Machine Learning
   </p>
-  <p>South Lampung, Indonesia</p>
+  <p>Jakarta, Indonesia</p>
 
   <a href="https://www.linkedin.com/in/saktimujahid/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,18 +32,21 @@ My engineering approach centers around software dependability: writing clean, ma
 ## Technical Specializations
 
 ### Software Engineering
+
 - Developing structured, full-lifecycle web applications and backend services with modular architecture.
 - Designing and integrating RESTful APIs with clean request/response lifecycles and secure data handling.
 - Relational database schema design, query optimization, and data persistence using PostgreSQL and MySQL.
 - Applying clean code practices, Git version control branching workflows, and collaborative codebase management.
 
 ### Quality Assurance & Testing
+
 - **API Testing via Postman:** Designing comprehensive test collections, automating test runners, configuring environment and global variables, and writing pre-request and test assertion scripts (HTTP status validation, response time benchmarks, and JSON payload schema verification).
 - **Test Planning & Documentation:** Formulating structured test scenarios, test cases, and edge-case test matrices.
 - **Functional Testing:** Executing manual Black Box testing, regression verification on feature releases, and coordinating User Acceptance Testing (UAT).
 - **Defect Lifecycle Management:** Writing clear defect reports with detailed reproduction steps, logs, expected versus actual outcomes, and verifying resolved issues.
 
 ### Applied Machine Learning & Data Science
+
 - **Exploratory Data Analysis (EDA):** Data wrangling, distribution inspection, and statistical validation using Pandas and NumPy.
 - **Feature Engineering:** Preprocessing pipelines, data normalization, categorical encoding, and handling imbalanced datasets.
 - **Model Training & Evaluation:** Implementing supervised and unsupervised learning algorithms with Scikit-learn and TensorFlow, measuring performance with precision, recall, F1-score, and confusion matrices.
